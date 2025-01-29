@@ -2,6 +2,10 @@
 
 This application demonstrates the use of Google's Gemini language and vision models to generate a random joke and an image based on it. It utilizes Flask for the web framework, Langchain for enhanced language model interaction, and Google Cloud services for deployment.
 
+For a detailed walkthrough and deeper understanding of the project, please refer to the following articles on Medium:
+
+[Deploy a flask app with Langchain and Google Cloud Run](https://medium.com/@aman.virk.ds/gemini-jests-deploy-a-flask-app-with-langchain-and-google-cloud-run-24fa07c640f7)
+
 ## App Description
 
 The application does the following:
